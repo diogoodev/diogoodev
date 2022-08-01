@@ -25,7 +25,8 @@
   <div> 
   <a href = "mailto:diogoodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diogomouraa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/diogoodev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"" target="_blank"></a> 
+  <a href="https://twitter.com/diogoodev" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"" target="_blank"></a>
+  <a href="https://www.freecodecamp.org/portuguese/diogoodev" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"" target="_blank"></a> 
  
   ![Snake animation](https://github.com/diogoodev/diogoodev/blob/output/github-contribution-grid-snake.svg)
  
