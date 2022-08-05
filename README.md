@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Diogo, aspirante a programador  👋
 
 
-
+- 🔭 Estou estudando para transição de carreira.
 - 🌱 Estou aprendendo atualmente javascript.
 - 🌱 Estou aprendendo atualmente python.
 - 🌱 Estou aprendendo atualmente html.
